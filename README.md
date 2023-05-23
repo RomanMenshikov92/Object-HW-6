@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/txi8bo6s5cgbivjb?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/object-hw-6)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок.
